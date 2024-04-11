@@ -13,6 +13,8 @@
 6. `git commit` to commit changes to the local repo
 7. `git push origin main` to push the local changes to the `main` branch of the `origin`
 
+**Branch 1 was created after the above line**
+
 ### Branches
 
 #### Branch 1:
@@ -23,7 +25,9 @@
 3. Then inside **branch1**, I made some changes which won't be visible here!
 4. Pushed changes to remote as `git push origin branch1`
 
-### Branch 2:
+**Branch 2 was created after the above line**
+
+#### Branch 2:
 > All the changes fro here onwards are done on branch2 and later merged with the main branch.
 > Means, the content from the heading *Branch 2* is written and pushed to branch 2 and never written or pushed to main branch.
 
