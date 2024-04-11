@@ -29,3 +29,8 @@
 
 1. Hello, this is branch 2 changes
 2. This is great stuff!
+   
+#### Steps:
+1. Push changes to remote branch2
+2. Checkout to main branch
+3. Merge branch2 with main
