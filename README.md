@@ -20,3 +20,5 @@
 
 1. `git branch branch1` to create a new branch
 2. `git checkout branch1` to switch to that branch and make changes
+3. Then inside **branch1**, I made some changes which won't be visible here!
+4. Pushed changes to remote as `git push origin branch1`
