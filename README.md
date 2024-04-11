@@ -34,3 +34,16 @@
 1. Push changes to remote branch2
 2. Checkout to main branch
 3. Merge branch2 with main
+
+### Again on Main
+Until the above i.e. `line 3` of **Branch 2** -> **Steps:**, changes were made to branch 2 and merged.
+
+Let's see how I merged the branch (**very Important**):
+1. After pushing my branch2 changes to remote, I did `git checkout main` to go to the main branch.
+2. Then I ran `git merge branch2` to merge my branch2 changes with main
+3. Then I did `git push origin main` to push this changes (merge) to remote
+
+#### few points to note:
+1. It is not necessary to push the changes of a branch to remote and then merge, we can make changes to a branch in our local env and then merge with main too!
+
+   
