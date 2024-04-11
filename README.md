@@ -12,3 +12,9 @@
 5. Ran `git add .` to add all the untracked files to the staging area
 6. `git commit` to commit changes to the local repo
 7. `git push origin main` to push the local changes to the `main` branch of the `origin`
+
+#### Branch1 changes
+1. These changes won't be visible on the main branch
+2. Do anything here, blah blah
+3. This is branch1!!
+   
