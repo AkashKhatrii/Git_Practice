@@ -12,3 +12,11 @@
 5. Ran `git add .` to add all the untracked files to the staging area
 6. `git commit` to commit changes to the local repo
 7. `git push origin main` to push the local changes to the `main` branch of the `origin`
+
+### Branches
+
+#### Branch 1:
+> In this, I will create a new branch named `branch1` and commit all the content before the Branches heading and see for myself how it works.
+
+1. `git branch branch1` to create a new branch
+2. `git checkout branch1` to switch to that branch and make changes
