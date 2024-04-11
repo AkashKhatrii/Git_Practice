@@ -22,3 +22,10 @@
 2. `git checkout branch1` to switch to that branch and make changes
 3. Then inside **branch1**, I made some changes which won't be visible here!
 4. Pushed changes to remote as `git push origin branch1`
+
+### Branch 2:
+> All the changes fro here onwards are done on branch2 and later merged with the main branch.
+> Means, the content from the heading *Branch 2* is written and pushed to branch 2 and never written or pushed to main branch.
+
+1. Hello, this is branch 2 changes
+2. This is great stuff!
