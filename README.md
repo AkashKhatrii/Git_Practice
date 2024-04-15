@@ -1,18 +1,5 @@
 ## This is my path to learning all about Git and Github!
 
-### Basics about Git and Github:
-1. `Local repository` - private working copy 
-2. `Working Directoy and Staging Area` - intermediate area where commits can be formatted and reviewed before completing the commit
-3. `push` - send a change to another repository (may require permission)
-4. `pull` - grab a change from a repository
-
-
-#### Commands
-1. `clone` - bring a repository hosted somewhere like Github into a folder or your local machine
-2. `add` - track your files and changes to Git
-3. `commit` - save your files in git
-4. `push` - upload your commits to a git repo, like Github
-5. `pull` - download changes forma remote repo to your local repo
 ### Initially:
 1. `git config --global user.name "Your Full Name"`
 2. `git config --global user.email "your_email@example.com"`
@@ -63,6 +50,19 @@ Let's see how I merged the branch (**very Important**):
 #### few points to note:
 1. It is not necessary to push the changes of a branch to remote and then merge, we can make changes to a branch in our local env and then merge with main too!
    
+### Basics about Git and Github:
+1. `Local repository` - private working copy 
+2. `Working Directoy and Staging Area` - intermediate area where commits can be formatted and reviewed before completing the commit
+3. `push` - send a change to another repository (may require permission)
+4. `pull` - grab a change from a repository
+
+
+#### Commands
+1. `clone` - bring a repository hosted somewhere like Github into a folder or your local machine
+2. `add` - track your files and changes to Git
+3. `commit` - save your files in git
+4. `push` - upload your commits to a git repo, like Github
+5. `pull` - download changes forma remote repo to your local repo
 
 ### About Merge Conflicts (via analogy)
 1. Suppose, we create two branches `branch1` and `branch2` after commiting some changes to the `main` branch.
